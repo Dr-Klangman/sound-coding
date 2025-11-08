@@ -1,5 +1,5 @@
 # sound-coding
 
-This repository will contain Python, Lua and C++ code related to my music making.
-However for the time being it just serves as a place holder until such time 
-as I get my stuff together.
+This repository will contain vaious music related code projects.
+However for the time being it just serves as a place holder until one  
+gets one's stuff in order.
